@@ -18,50 +18,35 @@ class Config(object):
     
     
     
-🤖 My Name: <a href='https://t.me/nvslinkbot'>Lin Search Bot</a>
-
+🤖 My Name: <a href='https://t.me/DTG_BOTS'>DTG LINKS BOT</a>
 📝 Language : <a href='https://www.python.org'> Python V3</a>
-
 📚 Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
-
-📡 Server: <a href='koyeb.com'>Koyeb</a>
-
-👨‍💻 Created By: <a href='https://t.me/tgnvs'>TGNVS</a></b>
+📡 Server: <a href='https://railway.app'>Railway</a>
+👨‍💻 Created By: <a href='https://t.me/DTG_BOTS'>DTG BOTS</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>Donation</b>
-<b>Thanks for showing interest in donation
-Donate Us To Keep Alive
-Continously Alive
-
-You Can Send Any Amount
-Donate Only One Rupee
-Of 10₹,20₹,30₹,50₹,100₹ 😁
-
-💸Payment Methods:
-Only UPI
-UPI:-</b> tgnvs@airtel
--<b> <a href=https://upier.vercel.app/pay/tgnvs@airtel?am=15>Donation Link</a></b>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/DTG_ADMIN_BOT'>Click Me</a>
+If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
 
     HOME_TEXT = """
 <b>Hey! {}😅,
 
-I'm Link Search Bot.🤖</a>
+I'm DTG LINKS BOT.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @tgnvs</a></b>
+<a>Made With 🔥 @DTG_BOTS</a></b>
 """
 
 
     START_MSG = """
 <b>Hey! {}😅,
 
-I'm Link Search Bot.🤖</a>
+I'm DTG LINKS BOT.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @tgnvs</a></b>
+<a>Made With 🔥 @DTG_BOTS</a></b>
 """
 
